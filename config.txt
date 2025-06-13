@@ -35,3 +35,16 @@ vless://8ea72b11-eb9b-4663-8904-f2efb20aa236@speedtest.net:80?encryption=none&se
 vless://8ea72b11-eb9b-4663-8904-f2efb20aa236@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#user13966🇩🇪
 vless://8ea72b11-eb9b-4663-8904-f2efb20aa236@tgju.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#user13966🇩🇪
 vless://8ea72b11-eb9b-4663-8904-f2efb20aa236@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#user13966🇩🇪
+vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?security=none&type=ws&host=18.6na7PY43IT.zuLaiR.Org.&path=%2F#🇩🇪[openproxylist.com] vless-DE
+trojan://pqlnPNu423@57.129.89.172:1935?security=tls&sni=x1-germany-ovh-v2.devefun.net&type=tcp#🇩🇪[openproxylist.com] trojan-DE
+vless://66f1504e-26ab-4219-c8d6-eab468906e46@167.82.72.20:443?security=tls&sni=map.google.com&type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&fp=firefox&allowInsecure=true#🇺🇸[openproxylist.com] vless-US
+vless://2d47a067-fa29-4d62-b596-b58c8782e880@185.232.152.17:12243?security=none&type=ws&path=%2F#🇩🇪[openproxylist.com] vless-DE
+trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.204.120:443?security=tls&sni=ddcDe.890603.XYz&type=ws&host=ddcde.890603.xyz&path=/COp52Dbu3dvwvDWUxOqxq#🇺🇸[openproxylist.com] trojan-US
+vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?type=ws&path=%2F00026cc2#🇸🇬[openproxylist.com] vless-SG
+vless://585acd30-52bf-4b70-a537-e13649fafefc@172.67.163.14:443?security=tls&sni=DfcVrf.2031.pp.Ua&type=ws&host=dfcvrf.2031.pp.ua&path=%2FrU9rSjDSOd4yY2fOe&fp=chrome&alpn=http%2F1.1#🇺🇸[openproxylist.com] vless-US
+trojan://3d4ad187-b554-4300-bf71-d26c71962504@104.21.78.243:443?security=tls&sni=FFfgtyy.7282728.XYZ&type=ws&host=FFfgtyy.7282728.XYZ&path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7#🇺🇸[openproxylist.com] trojan-US
+vless://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@172.67.138.187:443?security=tls&sni=18o0.7282728.xyZ&type=ws&host=18o0.7282728.xyz&path=/6r23FpdcA4KNAXX&alpn=http/1.1#🇺🇸[openproxylist.com] vless-US
+trojan://vpn@109.120.132.80:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#🇸🇪[openproxylist.com] trojan-SE
+vless://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.137.6:443?security=tls&sni=XCdvFRTtt.fREEvpnATM.dPDNS.oRg&type=ws&host=xcdvfrttt.freevpnatm.dpdns.org&path=%2FprUFeqTNsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#🇺🇸[openproxylist.com] vless-US
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.26.13.54:443?security=tls&sni=kg.ilikeu.dpdns.org&type=ws&host=kg.ilikeu.dpdns.org&path=%2F&fp=chrome#🇬🇧[openproxylist.com] vless-GB
+trojan://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.96.1:443?security=tls&sni=eeERrrR.999815.xYZ&type=ws&host=eeerrrr.999815.xyz&path=/eS3prPmcpzbScA5VUAi1psm38Tz#🇺🇸[openproxylist.com] trojan-US
